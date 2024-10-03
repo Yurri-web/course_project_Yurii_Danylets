@@ -1,2 +1,1 @@
-# course_project_Yurii_Danylets
-Android Development Basic.
+"# Course Project - Yurii Danylets" 
