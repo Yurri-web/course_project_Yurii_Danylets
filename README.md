@@ -1,3 +1,3 @@
 # Course: Android Development Basic
-## Student: Юрій Данилець
+## Student: Yurii Danylets
 ## GitHub: Yurii-web
