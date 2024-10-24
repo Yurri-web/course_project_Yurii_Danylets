@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LB_3_Androidstudio_Danylets</string>
+    <string name="text_off">OFF</string>
+    <string name="switch_description">Toggle the switch</string>
+</resources>
