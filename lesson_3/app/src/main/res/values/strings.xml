@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LB_2_Androidstudio_Danylets</string>
+    <string name="counter_default">0</string>
+    <string name="increment_button_label">Increment</string>
+    <string name="go_to_fragment_button_label">Go to Fragment</string>
+    <string name="go_to_second_activity">Go to Second Activity</string>
+</resources>
