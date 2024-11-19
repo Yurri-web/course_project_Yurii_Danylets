@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Multithreading</string>
+    <string name="counter_text">Лічильник: %1$d</string>
+    <string name="increase_button_text">Збільшити лічильник</string>
+    <string name="go_to_second_activity_text">Перейдіть до другої дії</string>
+    <string name="run_coroutine_text">Виконати співпрограму</string>
+    <string name="go_to_main_activity_text">Перейдіть до основної діяльності</string>
+</resources>
