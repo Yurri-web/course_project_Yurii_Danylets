@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Database_lr</string>
+    <string name="student_name_hint">Name</string>
+    <string name="student_surname_hint">Surname</string>
+    <string name="student_age_hint">Age</string>
+    <string name="group_id_hint">Group ID</string>
+    <string name="save_student_text">Save Student</string>
+    <string name="group_name_hint">Enter group name</string>
+    <string name="save_group_text">Save Group</string>
+    <string name="show_students_text">Show Students</string>
+    <string name="add_group_text">Add Group</string>
+    <string name="add_student_text">Add Student</string>
+</resources>
